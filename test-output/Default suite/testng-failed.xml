@@ -6,7 +6,7 @@
       <class name="codenboxautomationlab.MainTest">
         <methods>
           <include name="Mysetup"/>
-          <include name="Switch_Window"/>
+          <include name="Calendar_Example"/>
         </methods>
       </class> <!-- codenboxautomationlab.MainTest -->
     </classes>
