@@ -310,7 +310,7 @@ public void Calendar_Example ( ) throws InterruptedException {
 	}
 	
 	
-	  @Test(priority=16, description ="Check Title", enabled=false) public void
+	  @Test(priority=15, description ="Check Title", enabled=true) public void
 	  Check_Title ( ) { String expected
 	  ="Automation Practice - CodenBox AutomationLab"; String actual =
 	  driver.getTitle(); Assert.assertEquals(actual,expected); }
